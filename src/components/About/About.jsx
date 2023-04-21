@@ -1,11 +1,12 @@
 import React from 'react'
-import "./about.css"
+import profilePicture from "../../assets/profilepic.JPG"
+import "./about.css" 
 
 const About = () => {
   return (
     <div>
         <div>
-            <img className="about-img"src="profile-pic.png" alt="" />
+            <img className="about-img" src={profilePicture} alt="" />
         </div>
         <div className='about'>
             <h3 className='about-title'>Hi, I am Ilknur Dayanc Bloomer</h3>
