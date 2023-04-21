@@ -5,11 +5,14 @@ const About = () => {
   return (
     <div>
         <div>
-            <img className="about-img"src="https://img.internethaber.com/rcman/Cw480h479q95gm/files/2017/7/10/1791899/1791899_0_1499695330EiMxG.jpg" alt="" />
+            <img className="about-img"src="profile-pic.JPG" alt="" />
         </div>
         <div className='about'>
             <h3 className='about-title'>Hi, I am Ilknur Dayanc Bloomer</h3>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure, praesentium maiores? Impedit voluptatem neque, rem nam recusandae aliquam repudiandae at eos? In amet odio soluta asperiores vitae inventore, dolor sequi.</p>
+            <p>My name is Ilknur. I started to program about 2 years ago by reading, watching videos and trial and
+                  error. I'm currently studying full stack development through RICE UNIVERSITY's Boot Camp. Though I have
+                  made small programs for family and friends in the past, I am looking to progess into a career in
+                  software development. In my free time, I enjoy spending time outside, hiking, paddleboarding, riding a bcycle</p>
         </div>
 
     </div>
