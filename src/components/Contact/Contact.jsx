@@ -1,8 +1,9 @@
 import React from 'react'
-
+import "./Contact.css"
 const Contact = () => {
   return (
-    <div>
+    
+    <div className='boxes'>
     <h3>Contact</h3> 
     <form >
     <div>
@@ -23,6 +24,7 @@ const Contact = () => {
     </div>
     </form><br /><br /><br /><br /><br />
     </div>
+    
   )
 }
 

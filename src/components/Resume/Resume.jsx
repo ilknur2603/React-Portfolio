@@ -2,6 +2,7 @@ import React from 'react'
 import resume from "../../assets/Resume.pdf"
 import { BsDownload } from "react-icons/bs";
 
+import "./Resume.css"
 const Resume = () => {
   return (
     <div>

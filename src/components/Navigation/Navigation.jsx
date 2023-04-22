@@ -1,5 +1,5 @@
 import React from 'react'
-
+import "./Navigation.css"
 const Navigation = ({currentPage,setCurrentPage}) => {
 
    const navItems = ["About", "Projects", "Contact", "Resume"] 

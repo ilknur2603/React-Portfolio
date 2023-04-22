@@ -1,13 +1,20 @@
 import React from 'react'
 import profilePicture from "../../assets/profilepic.JPG"
+
 import "./about.css" 
+
+const pastel= new URL("../../assets/background1.jpg", import.meta.url)
+
 
 const About = () => {
   return (
-    <div>
+    <div className="main-container">
         <div>
             <img className="about-img" src={profilePicture} alt="" />
         </div>
+           <div  className="pastel" >
+            <img   src={pastel} />
+           </div>
         <div className='about'>
             <h3 className='about-title'>Hi, I am Ilknur Dayanc Bloomer</h3>
             <p>My name is Ilknur. I started to program about 2 years ago by reading, watching videos and trial and
