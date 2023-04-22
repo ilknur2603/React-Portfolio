@@ -10,3 +10,12 @@
    font-size: larger;
    font-family:'Times New Roman', Times, serif;
 }
+.style{
+   font-size:large;
+   font-family:'Times New Roman', Times, serif;
+   text-shadow: 2px;
+}
+.button1{
+   border-width: 10px;
+   size:50px;
+}

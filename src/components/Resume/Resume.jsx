@@ -10,41 +10,43 @@ const Resume = () => {
     <div className='bkgresume'>
        
     <div>
-    <button> <a href={resume} download="Resume"><BsDownload/> DownLoad Resume</a> </button>
+    <button className="button1"> <a href={resume} download="Resume"><BsDownload/> DownLoad Resume</a> </button>
     </div>
     
-        <div>
-            <h2 className="skill">My Skill</h2>
+        <div className='style'>
+            <h2 className="skill"> MY SKILLS</h2>
             <ol>
-                <li>FrontEnd
+                <li>FRONTEND
                 <ul>
                     <li>Html</li>
                     <li>css</li>
                     <li>js</li>
                     <li>React</li>
                     <li>Bootstrap</li>
+                    <li>Jquery</li>
 
                 </ul>
                 </li>
                 <br /><hr />
-                <li>BackEnd
+                <li>BACKEND
                 <ul>
                     <li>Html</li>
                     <li>css</li>
                     <li>js</li>
                     <li>React</li>
                     <li>Bootstrap</li>
+                    <li>Node js</li>
 
                 </ul>
                 </li>
                 <br /><hr />
-                <li>Soft Skill
+                <li>LEARNING
                 <ul>
-                    <li>Html</li>
-                    <li>css</li>
-                    <li>js</li>
-                    <li>React</li>
-                    <li>Bootstrap</li>
+                    <li>React Native</li>
+                    <li>Tailwind CSS</li>
+                    <li>SASS</li>
+                    <li>Typescript</li>
+                    
 
                 </ul>
                 </li>
