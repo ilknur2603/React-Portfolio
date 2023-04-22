@@ -5,7 +5,7 @@ import { FaEnvelope } from "react-icons/fa";
 import "./Footer.css"
 const Footer = () => {
   return (
-    <div>
+    <div className='footer'>
     <div className="socials d-flex justify-content-center gap-3">
         <a href="https://github.com"><BsGithub className='display-3  bsgithub'/></a>
         <a href="mailto:a@a"><FaEnvelope className='display-3 bsenvelop'/></a>

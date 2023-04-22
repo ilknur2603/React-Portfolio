@@ -33,7 +33,7 @@ const Main = () => {
   return (
     <div>
         <Header currentPage = {currentPage} setCurrentPage={setCurrentPage}/>
-        <main>
+        <main className='bkgpage'>
             {renderPage(currentPage)}
         </main>
         <Footer/>

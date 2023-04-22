@@ -1,3 +1,7 @@
-body{
-    background-color: rgb(30, 30, 53);
+.btn{
+    box-shadow:5px 5px 5px;
+    background-color: rgb(180, 206, 230);
+    border-color: black;
+    border:solid;
+    border-width:1px;
 }

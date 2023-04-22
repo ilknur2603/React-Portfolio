@@ -3,13 +3,18 @@ import resume from "../../assets/Resume.pdf"
 import { BsDownload } from "react-icons/bs";
 
 import "./Resume.css"
+
+
 const Resume = () => {
   return (
-    <div>
+    <div className='bkgresume'>
+       
     <div>
     <button> <a href={resume} download="Resume"><BsDownload/> DownLoad Resume</a> </button>
     </div>
-        
+    <div>
+           
+        </div>
         <div>
             <h2>My Skill</h2>
             <ol>

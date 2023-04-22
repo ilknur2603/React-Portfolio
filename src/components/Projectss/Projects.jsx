@@ -47,7 +47,7 @@ const data=[
 
 const Projects = () => {
   return (
-    <div>
+    <div className='bkg-clr'>
         <h2>MY PROJECT</h2>
         <div className='d-flex gap-4 flex-wrap'>
             {data.map((project)=>{

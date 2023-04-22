@@ -1,4 +1,8 @@
+*{
+    margin-bottom: 0px;
+    padding:0px;
+}
 .socials{
-    margin-bottom: 10px;
     
+    background-color: rgb(135, 231, 56);
 }

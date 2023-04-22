@@ -4,9 +4,10 @@
 }
 
 .big-container{
-    background-color:blueviolet
+    background-color:rgb(228, 207, 248)
 }
 .profile{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 14px;
+    font-size: 20px;
+    font-style: italic;
 }
