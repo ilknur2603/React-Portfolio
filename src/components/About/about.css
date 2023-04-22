@@ -1,9 +1,11 @@
 *{
     margin:0px;
     padding:0px;
+    
 }
-main-container{
-    background-color:rgb(207, 224, 235);
+
+.main-container{
+    background-color:rgb(8, 82, 131);
 }
 
 .about-title{
@@ -11,9 +13,16 @@ main-container{
 }
 .about-img{
     width: 300px;
-    height:150px;
+    height:250px;
     border-radius: 50%;
     box-shadow:10px 10px 10px 10px;
-    margin-bottom: 20px;
+    padding: 5px;
    
+}
+.about{
+   padding: 200px;
+   color:white;
+   font-size:medium;
+   font-weight:bold;
+   font-style: oblique;
 }

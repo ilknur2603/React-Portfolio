@@ -1,6 +1,6 @@
-body{
-   background-color: aqua; 
-}
+
 .boxes{
-    box-shadow:15px 15px 15px 5px
+    box-shadow:15px 15px 15px 5px;
+    padding: 65px;
+    background-color: #e7c5c5;
 }

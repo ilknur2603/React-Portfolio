@@ -3,5 +3,11 @@
     box-shadow: 5px 5px 5px ;
 }
 .bkg-clr{
-    background-color: rgb(238, 214, 108);
+    background-color: rgb(59, 5, 104);
+    padding:125px;
+    color:white;
+}
+.className{
+    font-size:larger;
+    font-style: italic;
 }

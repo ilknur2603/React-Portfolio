@@ -12,11 +12,9 @@ const Resume = () => {
     <div>
     <button> <a href={resume} download="Resume"><BsDownload/> DownLoad Resume</a> </button>
     </div>
-    <div>
-           
-        </div>
+    
         <div>
-            <h2>My Skill</h2>
+            <h2 className="skill">My Skill</h2>
             <ol>
                 <li>FrontEnd
                 <ul>

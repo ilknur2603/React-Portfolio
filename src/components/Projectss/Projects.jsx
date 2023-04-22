@@ -48,7 +48,7 @@ const data=[
 const Projects = () => {
   return (
     <div className='bkg-clr'>
-        <h2>MY PROJECT</h2>
+        <h2 className="project">MY PROJECTS</h2>
         <div className='d-flex gap-4 flex-wrap'>
             {data.map((project)=>{
                 const {id, image, title, github, live}  = project
@@ -59,7 +59,7 @@ const Projects = () => {
                     </div>
                     <h3>{title}</h3>
                     <div className='d-flex gap-4 justify-content-center'>
-                        <a href={github} className="btn btn-primary " target="_blank">Git Hub</a>
+                        <a href={github} className="btn btn-primary " target="_blank">GitHub</a>
 
                         <a href={live} className="btn btn-primary" target="_blank">Live</a>
                     </div>

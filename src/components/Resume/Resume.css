@@ -1,14 +1,12 @@
 
 .bkgresume{
-   background-color: rgb(177, 228, 110);
+   background-color:#e7c5c5;
    font-family: 'Times New Roman', Times, serif;
+   padding:35px;
+   font-size:larger;
+   font-weight: 100;
 }
-.resume-img{
-    margin-top:0px;   
-    margin-bottom:0px;
-   
-   background-position: center;
-   background-repeat: no-repeat;
-   background-size: cover; 
-  
+.skill{
+   font-size: larger;
+   font-family:'Times New Roman', Times, serif;
 }
