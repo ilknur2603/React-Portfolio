@@ -19,7 +19,7 @@ const data=[
     image:jate,
     title:"Text Editor",
     github:"https://github.com/ilknur2603/19-text-Editor" ,
-    live:""  },
+    live:"https://heroku-text-editor-nodejs.herokuapp.com/"  },
     {id:3,
     image:socialNetwork,
     title:"Social Network",
@@ -29,6 +29,7 @@ const data=[
     image:techBlog,
     title:"Tech Blog",
     github:"https://github.com/ilknur2603/tech-blog" ,
+    //404
     live:"https://vercel.com/new/ilknur2603/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=tech-blog-8j5jh2tl2-ilknur2603.vercel.app&projectName=tech-blog&s=https%3A%2F%2Fgithub.com%2Filknur2603%2Ftech-blog&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1"  },
     {id:5,
     image:eCommerce,

@@ -46,7 +46,7 @@ const Resume = () => {
                     <li>Tailwind CSS</li>
                     <li>SASS</li>
                     <li>Typescript</li>
-                    
+                    <li>AWS</li>
 
                 </ul>
                 </li>
