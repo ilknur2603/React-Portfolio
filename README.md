@@ -1,3 +1,19 @@
+##USAGE
+![contact](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/contact.png)
+<br>
+![ghpage](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/ghpage.png)
+<br>
+![my project](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/myprojects.png)
+<br>
+![myshills](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/myskills.png)
+<br>
+![portfolio-gif](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/react-portfolio-github.gif)
+<br>
+![vercel-about](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/vercel-About.png)
+<br>
+![vercel-congrats](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/vercel-cong.png)
+<br>
+
 ## User Story
 
 ```md
@@ -37,21 +53,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 <br>
 <br>
-##USAGE
-![contact](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/contact.png)
-<br>
-![ghpage](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/ghpage.png)
-<br>
-![my project](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/myprojects.png)
-<br>
-![myshills](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/myskills.png)
-<br>
-![portfolio-gif](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/react-portfolio-github.gif)
-<br>
-![vercel-about](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/vercel-About.png)
-<br>
-![vercel-congrats](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/vercel-cong.png)
-<br>
+
 <br>
 # Getting Started with Create React App
 
