@@ -1,8 +1,10 @@
 import React from 'react'
 import "./Contact.css"
+
+//Contact Component
 const Contact = () => {
   return (
-    
+    //create contact form with email, name note and submit button
     <div className='boxes'>
     <h3>Contact</h3> 
     <form >
@@ -27,5 +29,5 @@ const Contact = () => {
     
   )
 }
-
+//export page
 export default Contact

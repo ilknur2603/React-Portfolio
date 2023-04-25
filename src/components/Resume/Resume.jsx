@@ -4,7 +4,9 @@ import { BsDownload } from "react-icons/bs";
 
 import "./Resume.css"
 
-
+//Line 15,<a> element to download the resume PDF file.
+//
+//
 const Resume = () => {
   return (
     <div className='bkgresume'>

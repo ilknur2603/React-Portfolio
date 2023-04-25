@@ -1,9 +1,13 @@
+//import
 import React from 'react'
 import { BsGithub,BsLinkedin } from "react-icons/bs";
 import { FaEnvelope } from "react-icons/fa";
 
+
 import "./Footer.css"
+//Footer component
 const Footer = () => {
+  //social media icons added from react bootstrap
   return (
     <div className='footer'>
     <div className="socials d-flex justify-content-center gap-3">
@@ -15,4 +19,5 @@ const Footer = () => {
   )
 }
 
+//export page
 export default Footer

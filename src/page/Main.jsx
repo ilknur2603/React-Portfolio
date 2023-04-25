@@ -6,9 +6,11 @@ import Projects from '../components/Projectss/Projects'
 import Contact from '../components/Contact/Contact'
 import Resume from '../components/Resume/Resume'
 
+// line 12, Set the initial currentPage state using the useState hook with a default value of "About".
+
 const Main = () => {
     const [currentPage, setCurrentPage] = useState("About")
-
+//use switch case
     const renderPage = () => {
         switch (currentPage) {
             case "About":

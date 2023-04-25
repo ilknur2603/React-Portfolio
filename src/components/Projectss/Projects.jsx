@@ -1,4 +1,5 @@
 import React from 'react'
+//import my project pictures
 import bucketList from "../../assets/bucketList.png"
 import employeeTracker from "../../assets/employeeTracker.png"
 import techBlog from "../../assets/tech-blog.png"
@@ -8,7 +9,7 @@ import jate from "../../assets/jate.png"
 import "./projects.css"
 
 
-//BURAYI DUZENLE IMPORT YAPTIGIMIZ tour resimlerini ve import kismini sil!!!!!!!!!!!!
+//Added my projects in Array
 const data=[
     {id:1,
     image:bucketList,
@@ -45,6 +46,11 @@ const data=[
     live:"https://vercel.com/new/ilknur2603/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=employee-tracker-6dww1ifg1-ilknur2603.vercel.app&projectName=employee-tracker&s=https%3A%2F%2Fgithub.com%2Filknur2603%2FEmployee-tracker&gitOrgLimit=&hasTrialAvailable=1&totalProjects=1"  },
     
 ]
+
+//Project component
+//Line 60, mapping the data
+//Line 63, <article> element with a key attribute set to the project's id is created.
+//Line 69, 71  target attribute set to "_blank" to open the links in a new tab.
 
 const Projects = () => {
   return (
