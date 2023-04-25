@@ -34,23 +34,20 @@ WHEN I am presented with the Resume section
 THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
 WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
-
+<br>
+<br>
 
 ##USAGE
+![contact](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/contact.png)
+![ghpage](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/ghpage.png)
+![my project](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/myprojects.png)
+![myshills](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/myskills.png)
+![portfolio-gif](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/react-portfolio-github.gif)
+![vercel-about](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/vercel-About.png)
+![vercel-congrats](https://github.com/ilknur2603/React-Portfolio/blob/main/src/images/vercel-cong.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
